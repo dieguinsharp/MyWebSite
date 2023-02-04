@@ -1,0 +1,33 @@
+.footer {
+    background-color: #222;
+    color: #FFF;
+    padding: 1em;
+    text-align: center;
+    height: 100%;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+}
+
+.list svg {
+    font-size: 3em;
+    cursor: pointer;
+}
+
+.list a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 1em;
+}
+
+@media(max-width: 600px) {
+
+    .list svg {
+        font-size: 2em;
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,78 @@
+.content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.content h1 {
+    color: #7289da;
+}
+
+.img {
+    border-radius: 50%;
+    height: 20em;
+    width: 20em;
+}
+
+.content h1 {
+    color: white;
+}
+
+.card {
+    width: 100%;
+    margin: 15px 0px;
+    padding: 15px;
+    background-color: #222;
+    border-radius: 15px;
+}
+
+.card h1 {
+    border-bottom: 2px solid white;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card p {
+    width: 100%;
+    font-size: large;
+    color: white;
+    text-indent: 50px;
+}
+
+.card a {
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+@media(max-width: 600px) {
+
+    .img {
+        height: 15em;
+        width: 15em;
+    }
+
+    .list svg {
+        font-size: 2em;
+        cursor: pointer;
+    }
+
+    .card {
+        width: 80%;
+        margin: 5px 0px;
+        padding: 15px 15px;
+        background-color: #222;
+        border-radius: 15px;
+    }
+
+    .card h1 {
+        font-size: 1.5em;
+    }
+
+    .card p {
+        font-size: 1em;
+    }
+}

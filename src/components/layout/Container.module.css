@@ -1,0 +1,27 @@
+.container {
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.min_height {
+    min-height: 75%;
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.column {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+@media(max-width: 600px) {
+    .container {
+        flex-direction: column;
+        align-self:center;
+        max-width: 600px;
+    }
+}
