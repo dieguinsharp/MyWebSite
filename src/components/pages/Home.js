@@ -25,10 +25,7 @@ function Home(){
             <div className={styles.card}>
                 <h1>Motivações</h1>
                 <p>
-                    Não sei exatamente o que me fez escolher essa área mas sendo bem sincero foi a única forma de conseguir se dar bem na vida sem precisar gastar horrores com faculdade estando ainda no começo, sei que foi difícil pra mim começar e martelar muitas vezes um tem,a especifico mas hoje sei que valeu a pena todo o esforço e tenho orgulho disso.
-                </p>
-                <p>
-                    Hoje vejo que só preciso de tempo até poder realizar tudo que ainda tenho em mente e tenho certeza que fiz a escolha certa ao ingressar nesse mundo das "telinhas", obrigado a todos que me ajudaram  até aqui e especialmente a esse indivíduo que contribuiu de forma direta e/ou indireta para eu estar aqui: <a href='https://www.facebook.com/petvetbr' target="_blank">Fernando Lage Bastos</a>
+                    Não sei muito sobre motivação mas vejo que só preciso de tempo até poder realizar tudo que ainda tenho em mente e tenho certeza que fiz a escolha certa ao ingressar nesse mundo das "telinhas", obrigado a todos que me ajudaram  até aqui e especialmente a esse indivíduo que contribuiu de forma direta e/ou indireta para eu estar aqui: <a href='https://www.facebook.com/petvetbr' target="_blank">Fernando Lage Bastos</a>
                 </p>
             </div>
         </div>

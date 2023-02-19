@@ -15,9 +15,6 @@ function NavBar(){
                         <Link to="/experience">Experiência</Link>
                     </li>
                     <li className={styles.item}>
-                        <Link to="/contact">Contato</Link>
-                    </li>
-                    <li className={styles.item}>
                         <Link to="/honorablemention">Menção Honrosa</Link>
                     </li>
                 </ul>

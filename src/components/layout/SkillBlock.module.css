@@ -1,0 +1,47 @@
+.block {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.block p {
+    color: white;
+    font-size: large;
+    margin-left: 1em;
+    text-indent: 2em;
+}
+
+.block svg {
+    font-size: 8em;
+    cursor: pointer;
+    color: white;
+}
+
+.block h1 {
+    color: white;
+    margin-left: 1em;
+}
+
+.block img {
+    height: 5.5em;
+    width: 6em;
+}
+
+@media(max-width: 600px) {
+
+    .block {
+        flex-direction: column;
+    }
+
+    .block p {
+        color: white;
+        margin-left: 0;
+        font-size: 1em;
+    }
+
+    .block img {
+        height: 10em;
+        width: 10em;
+    }
+}
