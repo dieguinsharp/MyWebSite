@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MyWebSite/static/css/main.b773a941.css",
-    "main.js": "/MyWebSite/static/js/main.e03961a9.js",
-    "static/media/rest.png": "/MyWebSite/static/media/rest.072e0fffa3af2338a080.png",
-    "static/media/myimg2.jpeg": "/MyWebSite/static/media/myimg2.84a6048e35e45953a340.jpeg",
-    "static/media/mydesktop.jpeg": "/MyWebSite/static/media/mydesktop.6b25c35da676c6991ead.jpeg",
-    "static/media/sql.png": "/MyWebSite/static/media/sql.b7b25ce87049a522a3fb.png",
-    "static/media/myimg.jpg": "/MyWebSite/static/media/myimg.e2e7d83059a0c86908e0.jpg",
-    "static/media/liskov.jpeg": "/MyWebSite/static/media/liskov.a44386abb2fded72ac72.jpeg",
-    "static/media/csharp.png": "/MyWebSite/static/media/csharp.509c1a4773a41d73a664.png",
-    "static/media/xf.png": "/MyWebSite/static/media/xf.28f645ec1728de32d911.png",
-    "static/media/xaml.png": "/MyWebSite/static/media/xaml.6685b791163224f0108a.png",
-    "index.html": "/MyWebSite/index.html",
-    "main.b773a941.css.map": "/MyWebSite/static/css/main.b773a941.css.map",
-    "main.e03961a9.js.map": "/MyWebSite/static/js/main.e03961a9.js.map"
+    "main.css": "/website/static/css/main.e7eee974.css",
+    "main.js": "/website/static/js/main.ec48c8a4.js",
+    "static/media/rest.png": "/website/static/media/rest.072e0fffa3af2338a080.png",
+    "static/media/myimg2.jpeg": "/website/static/media/myimg2.84a6048e35e45953a340.jpeg",
+    "static/media/mydesktop.jpeg": "/website/static/media/mydesktop.6b25c35da676c6991ead.jpeg",
+    "static/media/sql.png": "/website/static/media/sql.b7b25ce87049a522a3fb.png",
+    "static/media/myimg.jpg": "/website/static/media/myimg.e2e7d83059a0c86908e0.jpg",
+    "static/media/liskov.jpeg": "/website/static/media/liskov.a44386abb2fded72ac72.jpeg",
+    "static/media/csharp.png": "/website/static/media/csharp.509c1a4773a41d73a664.png",
+    "static/media/xf.png": "/website/static/media/xf.28f645ec1728de32d911.png",
+    "static/media/xaml.png": "/website/static/media/xaml.6685b791163224f0108a.png",
+    "index.html": "/website/index.html",
+    "main.e7eee974.css.map": "/website/static/css/main.e7eee974.css.map",
+    "main.ec48c8a4.js.map": "/website/static/js/main.ec48c8a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.b773a941.css",
-    "static/js/main.e03961a9.js"
+    "static/css/main.e7eee974.css",
+    "static/js/main.ec48c8a4.js"
   ]
 }
