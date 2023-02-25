@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.e7eee974.css",
-    "main.js": "/website/static/js/main.ec48c8a4.js",
+    "main.css": "/website/static/css/main.4cda9837.css",
+    "main.js": "/website/static/js/main.6e3da2d7.js",
+    "static/media/malphite.png": "/website/static/media/malphite.c82ad717f02aa96dbbed.png",
+    "static/media/rocklee.png": "/website/static/media/rocklee.d1da8f6894fbab679e49.png",
+    "static/media/globinho.png": "/website/static/media/globinho.055be092c4292c8919b4.png",
     "static/media/rest.png": "/website/static/media/rest.072e0fffa3af2338a080.png",
+    "static/media/bacardi.png": "/website/static/media/bacardi.5d82f29998b8a3b1fb6d.png",
     "static/media/myimg2.jpeg": "/website/static/media/myimg2.84a6048e35e45953a340.jpeg",
     "static/media/mydesktop.jpeg": "/website/static/media/mydesktop.6b25c35da676c6991ead.jpeg",
     "static/media/sql.png": "/website/static/media/sql.b7b25ce87049a522a3fb.png",
@@ -12,11 +16,11 @@
     "static/media/xf.png": "/website/static/media/xf.28f645ec1728de32d911.png",
     "static/media/xaml.png": "/website/static/media/xaml.6685b791163224f0108a.png",
     "index.html": "/website/index.html",
-    "main.e7eee974.css.map": "/website/static/css/main.e7eee974.css.map",
-    "main.ec48c8a4.js.map": "/website/static/js/main.ec48c8a4.js.map"
+    "main.4cda9837.css.map": "/website/static/css/main.4cda9837.css.map",
+    "main.6e3da2d7.js.map": "/website/static/js/main.6e3da2d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7eee974.css",
-    "static/js/main.ec48c8a4.js"
+    "static/css/main.4cda9837.css",
+    "static/js/main.6e3da2d7.js"
   ]
 }
