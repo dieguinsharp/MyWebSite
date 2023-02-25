@@ -1,0 +1,38 @@
+.content {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    margin: 25px;
+}
+
+.content div {
+    margin-right: 20px;
+}
+
+.content img {
+    border-radius: 50%;
+    height: 20em;
+    width: 20em;
+}
+
+h1, p {
+    color: white;
+}
+
+@media(max-width: 600px) {
+
+    .content {
+        flex-direction: column;
+    }
+
+    .content p {
+        color: white;
+        margin-left: 0;
+        font-size: 1em;
+    }
+
+    .content img {
+        height: 15em;
+        width: 15em;
+    }
+}
